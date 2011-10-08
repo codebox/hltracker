@@ -1,0 +1,5 @@
+Here is the source code for the HLTracker application which I wrote many years ago - apparently it is still in use by some folks, so hopefully the source will be useful to anyone wanting to fix bugs or improve it in other ways.
+
+This is a Visual Basic 6.0 project, so you will need Visual Studio to open it and compile the code. The project needs 3 non-standard components - these are contained in the dependencies directory, and must be registered on your system before the project will compile (using regsvr32 - remember that?)
+
+May Hotline live on!
